@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0LRQaeKyhHieh2AaSbk4UwEnmKiqvQkSCY1v20G+PrgGLc/U1rJGUk3TTfQIgBxWg0vOT7CGO0zpQntpTMcSjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olife\\source\\repos\\RCP\\RCP\\RCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olife\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
